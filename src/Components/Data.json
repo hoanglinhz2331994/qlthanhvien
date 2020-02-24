@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name":"Nguyễn Hoàng Lĩnh 01",
+        "tel": "0345567141",
+        "Permission": 1
+    },
+    {
+        "id":2,
+        "name":"Passion 02",
+        "tel": "2233421234",
+        "Permission": 2
+    },
+    {
+        "id":3,
+        "name":"India 03",
+        "tel": "5532312523",
+        "Permission": 3
+    },
+    {
+        "id":4,
+        "name":"Jason 04",
+        "tel": "4356456456",
+        "Permission": 1
+    },
+    {
+        "id":5,
+        "name":"AKA 05",
+        "tel": "3434523466",
+        "Permission": 1
+    }
+    
+    
+]
