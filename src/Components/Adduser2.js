@@ -32,7 +32,7 @@ class Adduser extends Component {
                 return( 
                     <div className="col-12">
                         <div className="card border-primary mb-3 mt-2" style={{maxWidth: '18rem'}}>
-                            <div className="card-header text-center">Sửa thông tin User</div>
+                            <div className="card-header text-center">Thêm User</div>
                                 <form>
                                     <div className="card-body text-primary">                  
                                         <div className="form-group">

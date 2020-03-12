@@ -51,7 +51,7 @@ class Searchform extends Component {
                 <div className="form-group">
                     <div className="btn-group">
                         <input type="text" className="form-control" onChange={(event)=> this.isChange(event)} name="fName"  aria-describedby="helpId" placeholder="Nhập từ khóa" style={{width: '1060px'}} />
-                    <div className="btn btn-info" onClick={(dl) => this.props.checkConnectProps(this.state.tampValue)}>Tìm</div>
+                        <div className="btn btn-info" onClick={(dl) => this.props.checkConnectProps(this.state.tampValue)}>Tìm</div>
                     </div>
                     <div className="btn-group1">                    
                         {this.hienThiNut()}                                       
